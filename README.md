@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @getoanushka
+- 👋 Hi, I’m @getoanushka aka Anushka Srivastava
 - 👀 I’m interested in making cool projects by learning WebDev
 - 🌱 I’m currently learning DSA in C++ and will further continue with my web-development journey
 - 💞️ I’m looking to collaborate on robotics assembly

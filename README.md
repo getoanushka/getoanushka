@@ -1,7 +1,6 @@
 -  Hi, I’m @getoanushka aka Anushka Srivastava
 -  I’m interested in making cool projects by learning WebDev
--  I’m currently learning DSA in C++ and will further continue with my web-development journey
--  I’m looking to collaborate on robotics assembly
+-  I’m currently learning DSA in java and will further continue with my web-development journey
 -  How to reach me : 28anushka.s@gmail.com
 
 <!---

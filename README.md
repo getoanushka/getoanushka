@@ -14,7 +14,7 @@ building the kind of stuff that actually runs on real devices, breaks in interes
 - 🤖 engineer prompts for a live LLM-powered AI agent (PrimeAGNT)
 - 🌐 build full-stack apps that ship to production
 - 🔬 experiment with AI workflows, agents, and automation
-- 📚 B.Tech IT @ Manipal University Jaipur · CGPA 8.04
+- 📚 B.Tech IT @ Manipal University Jaipur 2027
 
 ---
 

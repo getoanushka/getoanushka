@@ -1,9 +1,28 @@
-Hi, I'm Anushka Srivastava, a software developer intern working on AI-agent optimization and prompt engineering at Primebook.  
-I enjoy building projects, exploring AI workflows, and working with backend systems, Git, Linux, and Android development tools.  
-Currently learning system design, scalable architectures, and real-world software engineering workflows.
--  How to reach me : 28anushka.s@gmail.com
+# hey, i'm anushka 👾
 
-<!---
-getoanushka/getoanushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> AI engineer by day. Bug fixer by night. Prompt whisperer always.
+
+currently shipping **AI agents to production** at Primebook India —
+building the kind of stuff that actually runs on real devices, breaks in interesting ways, and gets fixed at 11pm.
+
+---
+
+### what i'm working with
+`Python` `Kotlin` `React` `FastAPI` `LLMs` `Prompt Engineering` `Docker` `MongoDB` `Linux`
+
+### what i actually do
+- 🤖 engineer prompts for a live LLM-powered AI agent (PrimeAGNT)
+- 🌐 build full-stack apps that ship to production
+- 🔬 experiment with AI workflows, agents, and automation
+- 📚 B.Tech IT @ Manipal University Jaipur · CGPA 8.04
+
+---
+
+### find me
+📬 28anushka.s@gmail.com
+[linkedin ↗](https://linkedin.com/in/anushka-srivastava-b09271280)
+
+---
+
+✦ the portfolio said it better → **[getoanushka.github.io](https://getoanushka.github.io)**
+

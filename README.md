@@ -20,8 +20,7 @@ building the kind of stuff that actually runs on real devices, breaks in interes
 
 ### find me
 - 28anushka.s@gmail.com
-- 
-[linkedin ↗](https://linkedin.com/in/anushka-srivastava-b09271280)
+- [linkedin ↗](https://linkedin.com/in/anushka-srivastava-b09271280)
 
 ---
 

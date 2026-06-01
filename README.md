@@ -1,4 +1,4 @@
-# hey, i'm anushka 👾
+# hey, i'm anushka 
 
 > AI engineer by day. Bug fixer by night. Prompt whisperer always.
 
@@ -11,15 +11,15 @@ building the kind of stuff that actually runs on real devices, breaks in interes
 `Python` `Kotlin` `React` `FastAPI` `LLMs` `Prompt Engineering` `Docker` `MongoDB` `Linux`
 
 ### what i actually do
-- 🤖 engineer prompts for a live LLM-powered AI agent (PrimeAGNT)
-- 🌐 build full-stack apps that ship to production
-- 🔬 experiment with AI workflows, agents, and automation
-- 📚 B.Tech IT @ Manipal University Jaipur 2027
+-  engineer prompts for a live LLM-powered AI agent (PrimeAGNT)
+-  build full-stack apps that ship to production
+-  experiment with AI workflows, agents, and automation
+-  B.Tech IT @ Manipal University Jaipur 2027
 
 ---
 
 ### find me
-📬 28anushka.s@gmail.com
+- 28anushka.s@gmail.com
 [linkedin ↗](https://linkedin.com/in/anushka-srivastava-b09271280)
 
 ---

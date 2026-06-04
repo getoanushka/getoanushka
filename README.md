@@ -1,28 +1,34 @@
-# hey, i'm anushka 
+# Anushka Srivastava
 
-> AI engineer by day. Bug fixer by night. Prompt whisperer always.
-
-currently shipping **AI agents to production** at Primebook India —
-building the kind of stuff that actually runs on real devices, breaks in interesting ways, and gets fixed at 11pm.
+**Software Development Intern @ Primebook India**  
+B.Tech Information Technology · Manipal University Jaipur · 2027
 
 ---
 
-### what i'm working with
-`Python` `Kotlin` `React` `FastAPI` `LLMs` `Prompt Engineering` `Docker` `MongoDB` `Linux`
+### about
+I build and ship AI-powered systems to production. Currently working on **PrimeAGNT** — an LLM-powered Android agent that controls real devices, handles real tasks.
 
-### what i actually do
--  engineer prompts for a live LLM-powered AI agent (PrimeAGNT)
--  build full-stack apps that ship to production
--  experiment with AI workflows, agents, and automation
--  B.Tech IT @ Manipal University Jaipur 2027
+My work sits at the intersection of prompt engineering, AI agents, and full-stack development.
+
+---
+
+### what i work with
+`Python` `Kotlin` `React` `FastAPI` `LLMs` `Prompt Engineering` `MongoDB` `Docker` `Linux` `Android`
+
+---
+
+### what i've shipped
+- 🤖 Production prompt engineering for a live AI agent used at scale
+- 🌐 Full-stack applications deployed to production (FastAPI · React · MongoDB)
+- 🧠 LLM-based disambiguation systems, session memory pipelines, browser automation
+- 📊 ML recommendation systems with XGBoost and semantic search (FAISS)
 
 ---
 
 ### find me
-- 28anushka.s@gmail.com
-- [linkedin ↗](https://linkedin.com/in/anushka-srivastava-b09271280)
+- 📧 28anushka.s@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/anushka-srivastava-b09271280)
+- 🌐 [Portfolio](https://getoanushka.github.io)
 
 ---
-
-✦ the portfolio said it better → **[getoanushka.github.io](https://getoanushka.github.io)**
 

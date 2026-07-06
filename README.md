@@ -1,6 +1,6 @@
 # Anushka Srivastava
 
-**Software Development Intern @ Primebook India**  
+**Ex Software Development Intern @ Primebook India**  
 B.Tech Information Technology · Manipal University Jaipur · 2027
 
 ---
